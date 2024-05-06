@@ -1,0 +1,10 @@
+{
+    "Config": [
+        {
+            "token": "DiscordTokenID",
+            "channelids": ["Channel ID"],
+            "messages": ["Gmove", "wassap", "henlo frens"]
+         }
+    ]
+
+}
